@@ -22,7 +22,7 @@ class Solution {
                 break;
             }
         }
-        Arrays.sort(nums,ind+1,n);
+        Arrays.sort(nums,ind+1,nums.length);
         
 
     }
